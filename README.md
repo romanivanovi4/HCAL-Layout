@@ -1,2 +1,2 @@
 # HCAL-Layout
-Schematic and diagrams for HCAL calorimeter 
+Schematics and diagrams for HCAL calorimeter. To crate diagrams online tools: http://www.draw.io is used.
